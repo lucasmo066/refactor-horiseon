@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-/* BENEFITS ASIDE BEGINS */
+/* CONSOLIDATED THE SEPARATE BENEFIT CLASSES INTO ONE AND REMOVED REPEATED COMMANDS */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -106,7 +106,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
 /* BENEFITS ASIDE ENDS */
 
 
